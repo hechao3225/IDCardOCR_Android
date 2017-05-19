@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\MyWork\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\MyWork\projects\IDCardOCR\TesseractTest_AS\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_0399af097e456a5aca904ede43a98fd243a9b7ae\classes.dex" />
+    </item>
+    <item
+        jar="F:\MyWork\projects\IDCardOCR\TesseractTest_AS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3870a840ef08e418fb4268391000259725af0d84">
+        <dex dex="F:\MyWork\projects\IDCardOCR\TesseractTest_AS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8e227558a8352ef5eb4d0542e021354a43c897c3\classes.dex" />
+    </item>
+    <item
+        jar="F:\MyWork\projects\IDCardOCR\TesseractTest_AS\app\libs\tess-two.tesseract3.01-leptonica1.68-LibJPEG6b.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c816d29d5c19a2a5f2cfe79f52f58589ce8550ec">
+        <dex dex="F:\MyWork\projects\IDCardOCR\TesseractTest_AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\tess-two.tesseract3.01-leptonica1.68-LibJPEG6b_9ffab0b5d516146886a299ca6609e13a2e585aa8\classes.dex" />
+    </item>
+    <item
+        jar="F:\MyWork\projects\IDCardOCR\TesseractTest_AS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a28f08d6f61ba3290fe63f896385ad8c599b5894">
+        <dex dex="F:\MyWork\projects\IDCardOCR\TesseractTest_AS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5e20c55c90706f8e4151aa618f5f17e3d9b53336\classes.dex" />
+    </item>
+
+</items>

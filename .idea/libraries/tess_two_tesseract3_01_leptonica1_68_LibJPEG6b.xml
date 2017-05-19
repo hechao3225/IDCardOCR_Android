@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tess-two.tesseract3.01-leptonica1.68-LibJPEG6b">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/tess-two.tesseract3.01-leptonica1.68-LibJPEG6b.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
